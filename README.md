@@ -1,6 +1,6 @@
 # TON Blockchain: A Practical Guide to The Open Network
 
-[TON blockchain](https://ton.org/) (The Open Network) is a high-performance, decentralized platform designed for real-world scale. Its core promise is simple: fast transactions, low fees, and an experience that feels accessible not only to crypto-native users but also to everyday people.
+[TON blockchain](https://findtonapp.com/) (The Open Network) is a high-performance, decentralized platform designed for real-world scale. Its core promise is simple: fast transactions, low fees, and an experience that feels accessible not only to crypto-native users but also to everyday people.
 
 Over the last few years, TON has gained significant attention thanks to its focus on scalability and its growing ecosystem of wallets, apps, and services. For builders, it offers a modern approach to smart contracts and a network architecture that can expand with demand. For users, it aims to make Web3 interactions feel lightweight—closer to using a normal app than managing complex on-chain workflows.
 
